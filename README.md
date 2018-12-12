@@ -24,3 +24,8 @@ Hardware:
       |     Phone      |<----   CC2650     |  |     MSP432     |
       |                |  |BLE             |  |                |
       |________________|  |________________|  |________________|
+
+## App Interface
+![Image1](/App_Images/Image1.jpg)
+![Image2](/App_Images/Image2.jpg)
+![Image3](/App_Images/Image3.jpg)
