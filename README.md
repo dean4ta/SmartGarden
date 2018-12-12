@@ -8,7 +8,7 @@ Hardware:
 - NoSQL Server provided by Cloudant
 
 
-            ### System Architecture
+            ## System Architecture
                      ________________
 NoSQL Server:       |                |
                     |                |
