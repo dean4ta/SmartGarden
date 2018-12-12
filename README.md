@@ -8,7 +8,7 @@ Hardware:
 - NoSQL Server provided by Cloudant
 
 
-     ### System Architecture
+                         System Architecture
                            ________________ 
       NoSQL Server:       |                |
                           |                |
@@ -16,7 +16,7 @@ Hardware:
                           |                |
                           |________________|
                          ^                  ^
-                        / MQTT up            \ HTTP
+                        / MQTT up            \ HTTP up
       Edge Devices:    / HTTP down            \ 
        _______________v    ________________    \_______________ 
       |                |  |                |  |                |
